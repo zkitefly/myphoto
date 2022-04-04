@@ -7,7 +7,7 @@
 ### 渠道一：
 
 - 首先你得拥有 mcer.cn 网站的账户（没有则在 https://mcer.cn/shop/116.html 中往下滑以游客身份购买，获得邀请码注册账户），
-然后在 https://mcer.cn/shop/123.html 购买单日凭证，最后在 https://mcer.cn/x/gzlkrjqjl/mytoken 拷贝凭证密钥使用。
+然后在 https://mcer.cn/shop/123.html 购买单日凭证，最后在 https://mcer.cn/x/gzlkrjqjl/mytoken 拷贝凭证密钥粘贴至凭证输入框中按照并打开桥接模式开关即可。
 
 ### 渠道二：
 
